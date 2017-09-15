@@ -8,5 +8,5 @@ permalink: /resume/
 
 Name: Saknarin Chaihan
 
-#Education 
+# Education 
 Bs.C.  Computer Science, Faculty of Computer Science,Ubon Ratchathani Ratchabhat University.
